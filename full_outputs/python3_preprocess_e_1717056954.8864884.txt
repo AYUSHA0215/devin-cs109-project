@@ -1,0 +1,119 @@
+[nltk_data] Downloading package stopwords to /home/ubuntu/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to /home/ubuntu/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+Loaded 2551 emails from easy_ham
+Sample preprocessed email from easy_ham: rssfeed wed sep 25 2002 yyyi receiv localhost jalapeno postfix esmtp id 4b93216f03 wed 25 sep 2002 ist receiv jalapeno localhost imap jm localhost wed 25 sep 2002 ist receiv localhost esmtp id g8p80jc18053 wed 25 sep 2002 yyyi script subject sam rubi yup sick puppi date wed 25 sep 2002 url http date wed 25 sep 2002 gmt sam rubi 1 yup sick puppi 1 http
+Loaded 250 emails from hard_ham
+Sample preprocessed email from hard_ham: receiv esmtp id g6f2hfj04328 mon 15 jul 2002 receiv localhost smtp exim 1 id mon 15 jul 2002 date mon 15 jul 2002 updat subject reg headlin monday juli 15 reg subscrib preced list today headlin regist unsubscrib daili news updat see instruct end messag advertis win ticket formula one european grand prix neverfail group plc busi continu softwar expert sponsor ruben barrichello driver ferrari f1 team click find win ticket everi new custom buy neverfail tm product 2002 grand prix season neverfail group plc grant 2 ticket grand prix hospit event us next 2003 season softwar ogg vorbi goe gold sound good http norwegian gov ditch contract microsoft deal say minist http ms use peap home wireless secur tag possibl xp http enterpris system emc accentur switzerland storag vendor independ consult http ibm sell first iseri monster server custom want four tj watson say someth http nanotechnolog may nonsens http person hardwar sharp linux handheld doubl bug alert zoink http internet redhot boss jail 5 year worldcom level 3 stung isp collaps http three domain name scam bogu renew bogu directori http kpnqwest head final shutdown good bit sold custom gone goodnight http net secur linux attack rise anecdotag http sharp linux handheld doubl bug alert zoink http usa today swat hack attack entir er miss bit http busi eu recycl rule hit pc maker rubbish http fujitsu plan cut predict two year recoveri cfo paint gloomi pictur http dell up q2 forecast differ planet obvious http network one ten worker squeez junip financi result healthier though http broadband uk broadband doubl ooooooooooh http bto busi broadband promo string attach natur http bofh whole shebang bofh god workplac harmoni episod 14 sacrific must made http site news stocktak back monday proceed fanfar trumpet http call reg hackerett vultur central seek guidanc sizeabl problem http get reg logo full set gif imag view pleasur http last call star war consol competit close monday get skate http advertis win ticket formula one european grand prix neverfail group plc busi continu softwar expert sponsor ruben barrichello driver ferrari f1 team click find win ticket everi new custom buy neverfail tm product 2002 grand prix season neverfail group plc grant 2 ticket grand prix hospit event us next 2003 season regist content copyright 2002 situat publish right reserv tel 0 20 7499 fax 0 20 7493 unsubscrib daili updat visit follow url make sure enter exactli address use join servic http
+Loaded 501 emails from spam
+Sample preprocessed email from spam: xvfreshveget mon sep 16 2002 zzzz receiv localhost jalapeno postfix esmtp id 6963b16f03 mon 16 sep 2002 ist receiv jalapeno localhost imap zzzz localhost mon 16 sep 2002 ist receiv ident squid smtp id g8gfiec30799 mon 16 sep 2002 receiv unknown smtp sep 16 2002 receiv unknown esmtp sep 16 2002 receiv smtp sep 16 2002 receiv nnfmp sep 16 2002 greg suit cc subject 3 cd packag 300 million email address mil fax number sender greg suit date mon 16 sep 2002 aol window us sub 118 new new new market releas 300 million email address databas fulli export 3 cd 300 million email address databas fulli export 3 cd contain us intern email million usa busi fulli export fax number two directori 300 million fax email directori categor email address cdrom 300 million address 134 categori usa 50 state area code contain address peopl live 50 state state broken area code canada area code contain address peopl live canada provinc broken area code adult contain address peopl interest adult content auto contain address peopl interest automot content canada contain address peopl live canada provinc broken area code classifi contain address peopl advertis classifi peopl interest classifi cultur contain address peopl interest antiqu art entertain fashion movi etc dine contain address peopl interest drink beer cook dine etc gambl contain address peopl interest gambl garden contain address peopl interest garden geograph contain address peopl resid differ citi counti broken citi name golf contain address peopl interest golf health contain address peopl interest fit weight loss etc home busi contain address peopl interest run home base busi alreadi oper home base busi hot list contain address peopl interest onlin shop intern contain address peopl live differ countri broken name countri internet contain address peopl regist domain name past 2 month invest contain address peopl interest invest market misc contain address peopl interest auction boat book coupon credit fish mortgag polit real estat religion trade show etc music contain address peopl interest music internet market contain address peopl interest internet market place opportun seeker contain address peopl interest differ opportun contain address peopl interest outdoor contain address peopl interest outdoor activ pet lover contain address peopl interest pet psychic contain address peopl interest psychic publish contain address peopl interest publish recreat contain address peopl interest differ recreat activ contain address peopl interest show busi contain address peopl interest show busi sport contain address peopl interest sport health contain address peopl interest health web design contain address peopl interest web design travel contain address peopl interest travel super list contain address peopl bought internet last 4 month tropic contain address peopl live antigua bahama barbado bermuda british virgin island caribbean island cayman island grenada guam jamaica puerto rico kitt nevi lucia trinidad tobago turk caico island us virgin island etc broken area code mani everyth disk text file format fulli export cd easi use brows c drive explor think 300 million peopl see advert fraction buy think money would earn fax number fresh mani deliver million fax number list verifi within last three month fresh deliver fax number sort name busi type million fax number list sort area code sort busi name busi type file format fax number million fax number list standard text file format separ comma quot list compil number per line method suitabl import popular fax softwar program cd easi use brows c drive explor advertis free get tremend respons advertis form media order directori compil virtual everi email directori internet taken put extens email verif process thu elimin dead address special softwar spider web search websit newsgroup mani onlin databas given keyword like area code industri citi name etc find million fresh new address everi week turn comput money machin estim well 400 million peopl account next 2year turn comput money machin give immedi access think 300 million peopl address would interest product servic much faster get respons back 1 4 day instead wait week month begin fill order day send advertis worth million cost million dollar mail repli address order read order credit card visa mastercard american express simpli complet order form fax back 240 make sure address send reciept transact credit card order fax order form back 240 order form pleas print clearli name compani name email address tel ship address citi code countri product order form 300 million email address 3 cd million usa busi fax number ship option regular mail week deliveri prioriti mail busi day fedex overnight us canada int l order extra fedex total amount paid usd credit card order info must enclos visa mastercard american express card expiri date name card citi code countri last 3 digit revers card next signatur total amount usd agre pay total amount accord card issuer agreement author signatur x date 2002 pleas note ft intern appear statement credit card order fax order form back 240 mail order send order form back togeth money order payabl intern balanc mail address futur tech intern import export compani 1300 mill road suit 211 mill ontario canada m3b 2w6 pleas send postal money order question pleas feel free call us 1 416 remov databas pleas send fax
+Email 1 vector: [-0.76722878  1.27575743  0.56421983 -0.02818939 -0.0644706  -0.94620997
+  0.25318927  0.36705449 -0.50415939  0.47980848 -0.93005335  0.48966613
+  0.69423497  0.83536875  1.74639988 -0.64443958  2.51064587  0.67217213
+ -1.58510661 -1.60186529  0.87011617 -0.10489893  1.5239408  -0.08619368
+ -1.65206277  1.46923232 -1.02727914  0.02193748 -0.01417166  0.74017644
+  1.87519741 -0.39912665  0.27051929 -1.44334805 -0.66302192  0.42911619
+ -0.12130984  2.3573103  -0.31703326  0.72208667  0.48932028 -0.25181872
+  1.81169868  0.72814733  0.4831154  -2.14484406  0.74232644 -1.03250146
+  0.99073529 -0.4978793   1.08286095  0.43695995  0.60835236 -1.43025613
+ -0.23625863 -0.59594756  0.60134411  0.56872028 -0.44606441 -0.44358388
+  0.40667602 -1.93989694  1.62869728  1.93624878  0.54154468  0.81091589
+  0.4090457   0.69770461 -1.289294    1.67995429  0.22001937 -0.96439397
+ -0.41635945  1.75355804  1.1410141   1.76884389  0.80981606  1.72765779
+  0.19252147 -1.52729559 -1.47260714  0.32938343  0.7132386  -0.2581448
+  0.20268631  0.54542941  1.11388612  1.4032141  -1.13835144 -0.46899754
+  1.02446055 -1.39999902  0.48103324 -1.09669435  1.7993536  -1.05150282
+  1.50833142  1.25315619 -0.65175748 -1.37092817]
+Email 2 vector: [-0.63511527  0.94476575  0.60143352  0.07336359  0.10472505 -1.51974201
+  0.23632519  1.14488351 -0.32309243 -0.08166978 -0.42916799 -0.30889985
+  0.41251072  0.55325699  1.46392572 -0.81323576  2.13048124 -0.18917805
+ -1.09490919 -1.24858665  0.41746816 -0.07931626  1.01124752 -0.09454285
+ -0.97488225  0.9227916  -0.52675742  0.27474928 -0.37272796  0.54756826
+  1.71142304 -0.47352305 -0.04929826 -1.41122389 -0.47012433  0.78881752
+  0.29994619  1.18074512 -0.29398349  0.28808704  0.37508875 -0.29443493
+  0.93510711  0.43065569  0.72449678 -1.07276702  0.18117079 -0.55831039
+  0.84082037  0.10044488  0.72215098 -0.06099702  0.22931713 -0.81227243
+ -0.61995834 -0.27089915  0.75771534  0.4799805  -0.73006922  0.11867085
+  0.16593906 -1.13082337  1.16474617  1.1658535   0.17312448  0.62967002
+  0.39982027  0.85128391 -1.2386272   1.18208826  0.5247243  -0.25749999
+  0.45929307  1.15728772  1.27689302  1.02806282  0.37556386  0.96969783
+  0.03201337 -0.58387649 -1.1258589   0.4506748   0.37666437  0.10300571
+ -0.22094406  0.23464882  0.61576259  0.9371478  -0.22887976 -0.35204902
+  1.25990355 -0.65064728  0.41107315 -0.49543151  1.95454288 -0.38471234
+  1.13827252  0.26045707 -0.59150541 -0.9157601 ]
+Email 3 vector: [-7.02453613e-01  9.74779963e-01  2.89605469e-01 -5.36552258e-02
+ -1.09142266e-01 -8.27152431e-01  3.98028195e-01  3.11766982e-01
+ -5.49025476e-01  7.12277144e-02 -7.15195954e-01  3.58660042e-01
+  4.43556815e-01  8.90157282e-01  1.34892058e+00 -6.25412047e-01
+  2.00172949e+00  6.45310938e-01 -1.25859153e+00 -1.50053596e+00
+  7.80740380e-01  2.95186695e-02  1.00568223e+00 -1.12736121e-01
+ -1.15828001e+00  9.64689910e-01 -1.01747608e+00 -1.55008629e-01
+  1.00702636e-01  4.07926530e-01  1.43753147e+00 -1.31744608e-01
+  3.64560485e-01 -9.44811583e-01 -3.99746180e-01  3.74462128e-01
+ -1.09914616e-01  1.74013305e+00 -2.76856959e-01  3.89760971e-01
+  3.89849454e-01 -3.50481838e-01  1.60883546e+00  5.79014540e-01
+  5.09605944e-01 -1.82248485e+00  4.87777114e-01 -7.75238872e-01
+  8.17540288e-01 -4.38532263e-01  8.59437346e-01  2.17791349e-01
+  4.00636137e-01 -1.06955659e+00  5.11334091e-02 -2.72364676e-01
+  5.52733600e-01  3.36932898e-01 -6.36124611e-02 -2.61420012e-01
+  3.89650464e-01 -1.30749226e+00  1.40551865e+00  1.57243538e+00
+  3.19602370e-01  7.45532393e-01  3.27085078e-01  5.27130961e-01
+ -1.02128708e+00  1.61241400e+00  3.50329035e-04 -9.59135234e-01
+ -2.80149817e-01  1.32831609e+00  1.20789421e+00  1.32832193e+00
+  6.02511704e-01  1.37513328e+00 -1.03356019e-01 -1.17842221e+00
+ -1.16220212e+00  1.41964480e-01  2.10677847e-01  1.00150637e-01
+  3.57462078e-01  5.47605395e-01  1.00339520e+00  9.44677830e-01
+ -8.13046277e-01 -1.72061771e-01  8.33827376e-01 -1.05264819e+00
+  2.81751901e-01 -8.15566301e-01  1.46129107e+00 -8.47997367e-01
+  1.26298511e+00  8.48377943e-01 -3.57697517e-01 -1.09179330e+00]
+Email 4 vector: [-0.34675428  0.16687334  0.11777221 -0.03273913  0.1991647  -1.20051014
+  0.45362496  1.10246265 -0.42468131 -0.69434536 -0.31167585 -0.74400723
+ -0.29657477  0.78711724  0.66752833 -0.64252895  1.00048411 -0.65953171
+ -0.27857533 -1.10768104  0.14331077  0.20259808  0.19098209 -0.10047546
+ -0.19100919  0.05491184 -0.60667968 -0.36437079 -0.66365772 -0.0082276
+  1.23236656  0.03882312  0.31246156 -0.95782292 -0.20326991  0.52017283
+  0.39864728 -0.05040105 -0.08561652 -0.5088473  -0.03426024 -0.34486738
+  0.34643117  0.1567802   0.61253625 -0.65671605 -0.31246915 -0.06653171
+  0.49132308  0.51113546  0.15191756 -0.08913025 -0.0227815  -0.17337716
+ -0.23132733  0.25822556  0.5390802  -0.11167824 -0.37195006  0.53968602
+  0.13907105 -0.19464466  0.41121316  0.61822528 -0.53100252  0.40825304
+  0.20036463  0.28796497 -0.95555574  0.88753349  0.0125074  -0.01463388
+  0.64261067  0.1879402   1.07824612 -0.05793601 -0.05921093  0.17964171
+ -0.63357455  0.00902032 -0.32387662 -0.01319349 -0.58505845  0.81646168
+ -0.31317091  0.22933507  0.31756726  0.54852915  0.495729    0.28403771
+  0.96952182  0.35913011  0.27092311  0.20158555  1.00166678  0.35153672
+  0.33756074 -0.3008579   0.0978833  -0.4502801 ]
+Email 5 vector: [-0.37845093  0.76163507  0.4535968   0.00864199 -0.01043172 -1.00735199
+  0.36795446  0.73427522 -0.60907412 -0.34663588 -0.495965   -0.3714782
+  0.00271477  0.84135062  1.17355061 -0.54381311  1.63581395  0.01234691
+ -0.72442579 -1.32457304  0.62205082 -0.00935678  0.8548454  -0.29448941
+ -0.78664267  0.64663786 -0.92360306 -0.22231476 -0.3230997   0.06461781
+  1.52232504 -0.18638889  0.23589697 -1.2936306  -0.406703    0.29239669
+  0.32090539  0.94245577 -0.37997979  0.03188655 -0.04531755 -0.31208405
+  0.96412975  0.37414169  0.64213431 -1.18295479  0.01879621 -0.44117329
+  0.56958902  0.07324138  0.51025343  0.30988452  0.11799555 -0.91310507
+ -0.02501688 -0.21755074  0.43827033  0.2031659  -0.40169454  0.1334676
+  0.14776002 -0.92483544  0.97106946  1.2779274   0.05406216  0.54042608
+  0.11585743  0.52250218 -1.03427553  1.12994814  0.22246924 -0.45580772
+  0.19856583  1.02641475  1.03598988  0.56880569  0.33747029  0.82542479
+ -0.19635542 -0.71904171 -0.9087674  -0.00500861 -0.05678215  0.40927088
+  0.0044647   0.35916874  0.83064193  0.85545063 -0.17001292 -0.04119046
+  0.96480078 -0.46172786  0.40829188 -0.44809312  1.22619367 -0.0723438
+  0.65109724  0.45593634 -0.24923594 -0.87191248]
+Training Naive Bayes with alpha=0.1
+/home/ubuntu/preprocess_emails.py:104: RuntimeWarning: invalid value encountered in log
+  log_likelihoods = np.log(likelihoods)
+Alpha: 0.1, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+Training Naive Bayes with alpha=0.5
+Alpha: 0.5, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+Training Naive Bayes with alpha=1.0
+Alpha: 1.0, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+Training Naive Bayes with alpha=1.5
+Alpha: 1.5, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+Training Naive Bayes with alpha=2.0
+Alpha: 2.0, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+Training Naive Bayes with alpha=2.5
+Alpha: 2.5, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
+Training Naive Bayes with alpha=3.0
+Alpha: 3.0, Accuracy: 0.8320726172465961, Precision: 0.0, Recall: 0.0, F1 Score: 0.0
